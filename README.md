@@ -2,7 +2,7 @@
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
   <img align="center" src="https://img.shields.io/badge/-C-%2300BFFF?style=flat-square&logo=C&logoColor=ffffff" />
-  <img align="center" src="https://img.shields.io/badge/flat%20square-Java-red" />
+  <img align="center" src="https://img.shields.io/badge/-Java-brightgreend" />
 </p>
 
 ## 💡About me
@@ -11,8 +11,6 @@
 - 📫 How to reach me: [@Yufei](http://linkedin.com/in/yufei-zuo-664635117) on Linkedin
 
 ## 📕Knowledge
-[![Yufei's github stats](https://github-readme-stats.vercel.app/api?username=Phoebezuo)](https://github.com/Phoebezuo/github-readme-stats)
-
 <p>
   <a href="https://github.com/Phoebezuo">
     <img width="50%" align="right"  alt="Phoebezuo's github stats" src="https://github-readme-stats.vercel.app/api?username=Phoebezuo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
@@ -27,4 +25,3 @@
   <br />
 
 </p>
-https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg
