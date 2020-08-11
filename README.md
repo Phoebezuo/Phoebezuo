@@ -1,9 +1,5 @@
 ## Hi there 👋 I'm Yufei, aka Phoebe.
-<p align="center">
-  <img align="center" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
-  <img align="center" src="https://img.shields.io/badge/-C-%2300BFFF?style=flat-square&logo=C&logoColor=ffffff" />
-  <img align="center" src="https://img.shields.io/badge/-Java-brightgreend" />
-</p>
+![image](https://github.com/Phoebezuo/Phoebezuo/blob/master/dino.gif)
 
 ## 💡About me
 - 🔭 I’m currently studying at **University of Sydney**
