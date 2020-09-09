@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Yufei, aka Phoebe.
+## Hi there <img src="https://github.com/Phoebezuo/Phoebezuo/blob/master/wave.gif" width="30px"> I'm Yufei, aka Phoebe.
 ![image](https://github.com/Phoebezuo/Phoebezuo/blob/master/dino.gif)
 
 ## 💡About me
