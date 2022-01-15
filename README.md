@@ -1,10 +1,9 @@
-## Hi there <img src="https://github.com/Phoebezuo/Phoebezuo/blob/master/wave.gif" width="30px"> I'm Yufei, aka Phoebe.
+## Hi there <img src="https://github.com/Phoebezuo/Phoebezuo/blob/master/wave.gif" width="30px"> I'm Phoebe.
 ![image](https://github.com/Phoebezuo/Phoebezuo/blob/master/dino.gif)
 
 ## 💡About me
 - 🔭 I’m currently studying at **University of Sydney**
 - 🌱 I’m currently learning **Mathesmatics and Computer Science**
-- 📫 How to reach me: [@Yufei](http://linkedin.com/in/yufei-zuo-664635117) on Linkedin
 
 ## 📕Knowledge
 <p>
